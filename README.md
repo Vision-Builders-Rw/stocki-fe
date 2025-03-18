@@ -1,2 +1,3 @@
-# Grab-Joint-fn
-Frontend repository for the Grab Joint Project.
+# Fixo
+
+We are here to serve people.
